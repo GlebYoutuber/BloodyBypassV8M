@@ -1,5 +1,7 @@
 # BloodyBypassV8M
-Bloody Bypass EAC Kick
+It's for Model V8M...
+
+**Enjoy!!!**
 
 ## Progress
 <p align="center" >  
